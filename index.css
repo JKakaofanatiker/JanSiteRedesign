@@ -66,11 +66,11 @@ video {
 }
 
 h2 {
-color: #EAFF02;
-font-family: 'Lobster', cursive;
-background-color: green;
-text-align: center;
-padding: 9px;
+	color: rgb(195, 0, 255);
+	font-family: 'Lobster', cursive;
+	background-color: #4301464f;
+	text-align: center;
+	padding: 9px;
 }
 
 h3 {
@@ -83,4 +83,17 @@ color: white;
 
 hr {
 	color: rgba(115, 0, 150, 0.705);
+}
+
+.description {
+			color: rgb(195, 0, 255);
+			background-color: #300033d8;
+			text-align: left;
+			padding: 9px;
+			font-family: 'Share Tech Mono', monospace;
+}
+
+ul {
+	color: rgb(195, 0, 255);
+	background-color: #4301464f;
 }
